@@ -1,0 +1,4 @@
+Central de Ajuda — Pilar Sistemas (site publicado)
+Conteúdo servido: index.html + bol-assets/
+Fonte (não versionar aqui): gerar-central.py, conteudo/  (ficam na pasta base-conhecimento)
+A cada boletim novo, index.html e bol-assets/ são atualizados e enviados a este repositório.
